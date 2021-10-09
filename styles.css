@@ -1,0 +1,30 @@
+.odin {
+    color: black;
+    background-color: lightcoral;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+  } 
+  
+
+.makhni {
+    color: black;
+    background-color: lightseagreen;
+    font-size: 20px;
+    font-weight: bold;
+  } 
+  
+.paneer {
+    color: black;
+    background-color: rgb(110, 201, 5);
+    font-size: 20px;
+    font-weight: bold;
+  } 
+  
+.dosa {
+    color: black;
+    background-color: rgb(201, 172, 8);
+    font-size: 20px;
+    font-weight: bold;
+  } 
+  
